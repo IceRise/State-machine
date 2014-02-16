@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace State_machine
 {
-    class Body
+    abstract class Body
     {
     }
 }

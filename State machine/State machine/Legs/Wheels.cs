@@ -7,16 +7,8 @@ using System.Threading.Tasks;
 
 namespace State_machine
 {
-    internal sealed class Wheels : LegTypes, IMove
+    internal sealed class Wheels : Legs, IMove
     {
-        public void SpeedPlus()
-        {
-            throw new NotImplementedException();
-        }
 
-        public void SpeedMinus()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

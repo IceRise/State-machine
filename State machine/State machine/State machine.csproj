@@ -41,11 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Interfaces\IMove.cs" />
+    <Compile Include="Hands.cs" />
     <Compile Include="Legs\Antigrav.cs" />
     <Compile Include="Body.cs" />
+    <Compile Include="Legs\Head.cs" />
     <Compile Include="Legs\HumanoidLegs.cs" />
-    <Compile Include="Legs\LegTypes.cs" />
+    <Compile Include="Legs\Legs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Legs\Tracks.cs" />
@@ -54,6 +55,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

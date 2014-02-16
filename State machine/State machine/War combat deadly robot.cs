@@ -9,6 +9,10 @@ namespace State_machine
 {
     class WarCombatDeadlyRobot
     {
+        public WarCombatDeadlyRobot(Body body,Legs legs,Hands hands,Head head)
+        {
+
+        }
         
     }
 }

@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace State_machine
 {
-    internal sealed class HumanoidLegs : Legs
+    abstract class Head
     {
-
     }
 }

@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace State_machine.Interfaces
+namespace State_machine
 {
-    interface IMove
+    abstract class Hands
     {
-        void SpeedPlus();
-        void SpeedMinus();
     }
 }
