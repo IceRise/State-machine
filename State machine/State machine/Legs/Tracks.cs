@@ -8,14 +8,19 @@ namespace State_machine
 {
     internal sealed class Tracks : Legs
     {
-        public void SpeedPlus()
+        public Tracks()
         {
-            throw new NotImplementedException();
+            Weight = 500;
+            MaxSpeed = 70;
+            EnergyRequirements = 8;
         }
+        public override double Weight
+        { get; protected set; }
 
-        public void SpeedMinus()
-        {
-            throw new NotImplementedException();
-        }
+        public override double MaxSpeed
+        { get; protected set; }
+
+        public override double EnergyRequirements
+        { get; protected set; }
     }
 }
