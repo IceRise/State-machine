@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\IMove.cs" />
     <Compile Include="Legs\Antigrav.cs" />
     <Compile Include="Body.cs" />
     <Compile Include="Legs\HumanoidLegs.cs" />

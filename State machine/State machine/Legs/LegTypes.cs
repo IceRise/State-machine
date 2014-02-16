@@ -9,6 +9,8 @@ namespace State_machine
     abstract class LegTypes
     {
         public double MaxSpeed { get; set; }
+        public double CurrentSpeed { get; set; }
         public double EnergyRequirements { get; set; }
+        
     }
 }
