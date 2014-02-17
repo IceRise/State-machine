@@ -1,1 +1,7 @@
 c:\users\олег\documents\visual studio 2012\Projects\State machine\State machine\bin\Debug\State machine.exe.config
+C:\Users\Олег\Documents\GitHub\State-machine\State machine\State machine\bin\Debug\State machine.exe.config
+C:\Users\Олег\Documents\GitHub\State-machine\State machine\State machine\obj\Debug\State machine.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Documents\GitHub\State-machine\State machine\State machine\bin\Debug\State machine.exe
+C:\Users\Олег\Documents\GitHub\State-machine\State machine\State machine\bin\Debug\State machine.pdb
+C:\Users\Олег\Documents\GitHub\State-machine\State machine\State machine\obj\Debug\State machine.exe
+C:\Users\Олег\Documents\GitHub\State-machine\State machine\State machine\obj\Debug\State machine.pdb
